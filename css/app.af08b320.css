@@ -1,1 +1,0 @@
-@-webkit-keyframes spin{0%{transform:rotate(0deg)}to{transform:rotate(4turn)}}@keyframes spin{0%{transform:rotate(0deg)}to{transform:rotate(4turn)}}.logo{-webkit-animation-name:spin;animation-name:spin;-webkit-animation-duration:2s;animation-duration:2s;-webkit-animation-iteration-count:infinite;animation-iteration-count:infinite}.v-icon:hover{transform:scaleX(1.5) scaleY(1.5)}
